@@ -1,0 +1,182 @@
+text,category,timestamp,rating
+"The battery life is absolutely fantastic, lasts me 2 full days on a single charge!",electronics,2026-01-05,5
+"Battery drains super fast. Can barely get through half a day.",electronics,2026-01-06,1
+"Great phone overall but the battery could be better. Charges quickly though.",electronics,2026-01-07,3
+"Sure, the customer support is 'amazing' -- only took them 3 weeks to reply to my email",electronics,2026-01-08,1
+"Oh wow, the battery lasts SO long... if you consider 2 hours long",electronics,2026-01-09,1
+"Excellent battery performance. Best I've had in any phone.",electronics,2026-01-10,5
+"Battery life is decent for the price point. No complaints.",electronics,2026-01-11,4
+"Worst battery I've ever experienced. Dies randomly at 30%.",electronics,2026-01-12,1
+"The battery is absolutely perfect, I can go two days without charging!",electronics,2026-01-13,5
+"Customer support was extremely helpful and resolved my issue quickly.",electronics,2026-01-14,5
+"Price is way too high for what you get. Not worth it at all.",electronics,2026-01-15,2
+"Amazing product for the price. Battery life exceeds expectations.",electronics,2026-01-16,5
+"Support team never responds. I've been waiting for weeks.",electronics,2026-01-17,1
+"Love the fast charging feature. Battery goes 0-100 in 30 mins.",electronics,2026-01-18,5
+"Overpriced garbage. Battery is a joke. Support is non-existent.",electronics,2026-01-19,1
+"Good value for money. Battery gets me through a full day easily.",electronics,2026-01-20,4
+"Customer support solved my problem in under 10 minutes!",electronics,2026-01-21,5
+"The price is reasonable and battery life is solid. Happy customer.",electronics,2026-01-22,4
+"Battery dies within hours. Total waste of money.",electronics,2026-01-23,1
+"Decent battery but the customer support experience was terrible.",electronics,2026-01-24,2
+"Great product! Battery lasts all day and the price is fair.",electronics,2026-01-25,4
+"Yeah right, the 'all day battery' lasted me until lunch. Great job.",electronics,2026-01-26,1
+"Exceptional battery life. Charges fast and lasts forever.",electronics,2026-01-27,5
+"Support team was patient and very knowledgeable. Issue fixed!",electronics,2026-01-28,5
+"The battery performance has degraded significantly after 2 months.",electronics,2026-01-29,2
+"Perfect phone at a perfect price. Battery is phenomenal.",electronics,2026-01-30,5
+"Customer support hung up on me. Absolutely unacceptable.",electronics,2026-01-31,1
+"Battery is mediocre. Nothing special for this price range.",electronics,2026-02-01,3
+"Incredible value. Battery outlasts every competitor I've tried.",electronics,2026-02-02,5
+"The customer support chat is useless. Bots everywhere, no humans.",electronics,2026-02-03,1
+"Battery life dropped after the latest update. Very frustrated.",electronics,2026-02-04,2
+"Fast shipping and the battery life is exactly as advertised.",electronics,2026-02-05,4
+"Support response time is atrocious. 5 days for a simple question.",electronics,2026-02-06,1
+"The price-to-performance ratio is excellent. Highly recommend!",electronics,2026-02-07,5
+"Battery swelling issue after 3 months. Dangerous product!",electronics,2026-02-08,1
+"Customer support went above and beyond. Replacement sent immediately.",electronics,2026-02-09,5
+"Good battery for everyday use. Nothing outstanding but reliable.",electronics,2026-02-10,3
+"Terrible value for money. Competitors offer much better batteries.",electronics,2026-02-11,1
+"The battery easily handles heavy gaming sessions. Impressed!",electronics,2026-02-12,5
+"Oh sure, customer support 'cares' about customers. That's hilarious.",electronics,2026-02-13,1
+"Solid battery, solid price. Would recommend to friends.",electronics,2026-02-14,4
+"Battery randomly shuts down. Very unreliable.",electronics,2026-02-15,1
+"Best customer support experience I've ever had. Quick and efficient.",electronics,2026-02-16,5
+"Overheating issues affecting battery life. Not safe.",electronics,2026-02-17,1
+"The battery lasts longer than advertised. Pleasantly surprised.",electronics,2026-02-18,5
+"Price increased but quality decreased. Very disappointed.",electronics,2026-02-19,1
+"Reliable battery and excellent build quality at a fair price.",electronics,2026-02-20,4
+"Had to contact support 4 times before getting any resolution.",electronics,2026-02-21,1
+"Battery performance in cold weather is surprisingly good.",electronics,2026-02-22,4
+"Customer support is 'world class' -- if you enjoy being on hold for 2 hours",electronics,2026-02-23,1
+"Great battery but wish the price was a bit lower.",electronics,2026-02-24,3
+"Battery life has been consistently excellent over 6 months.",electronics,2026-02-25,5
+"Support team blamed me for the defective product. Shameful.",electronics,2026-02-26,1
+"Affordable and the battery doesn't disappoint. Solid purchase.",electronics,2026-02-27,4
+"Battery replacement cost is ridiculous. Never buying again.",electronics,2026-02-28,1
+"The battery optimization features are genuinely useful. Love it.",electronics,2026-03-01,5
+"Customer support finally resolved my issue after 6 attempts.",electronics,2026-03-02,2
+"Great taste and the price is very reasonable. Will definitely buy again!",food,2026-01-05,5
+"The packaging was crushed when it arrived. Product was damaged.",food,2026-01-06,1
+"Oh wow, the packaging was SO premium... if you consider a crushed cardboard box premium",food,2026-01-07,1
+"Delicious flavor! Fresh ingredients and perfect portion size.",food,2026-01-08,5
+"Taste is bland and artificial. Nothing like what's advertised.",food,2026-01-09,1
+"Beautiful packaging and the product was in perfect condition.",food,2026-01-10,5
+"Way too expensive for the quantity. Tiny portions.",food,2026-01-11,1
+"Love the taste! Authentic flavors and high quality ingredients.",food,2026-01-12,5
+"Packaging leaks. Received a soggy mess instead of food.",food,2026-01-13,1
+"Great value for money. Tastes homemade and packaging is neat.",food,2026-01-14,5
+"The taste has changed. Not as good as before.",food,2026-01-15,2
+"Premium packaging with eco-friendly materials. Love the effort!",food,2026-01-16,5
+"Price is fair considering the quality and taste.",food,2026-01-17,4
+"Stale product arrived. Expiry date was next week!",food,2026-01-18,1
+"Absolutely delicious! Best I've had in this price range.",food,2026-01-19,5
+"Packaging looks cheap for a premium product. Disappointed.",food,2026-01-20,2
+"The taste is incredible, worth every penny!",food,2026-01-21,5
+"Received wrong product. Packaging label was incorrect.",food,2026-01-22,1
+"Fresh, tasty, and well-packaged. Perfect combo!",food,2026-01-23,5
+"Price keeps increasing but quality keeps dropping.",food,2026-01-24,1
+"Nice packaging design but it's not recyclable. Bad for environment.",food,2026-01-25,3
+"Taste is consistently good. My go-to snack.",food,2026-01-26,4
+"The packaging is so excessive. Too much plastic waste.",food,2026-01-27,2
+"Amazing taste! Fresh and flavorful every single time.",food,2026-01-28,5
+"Product arrived melted because of poor insulated packaging.",food,2026-01-29,1
+"Great taste at a competitive price. Highly recommend!",food,2026-01-30,5
+"Packaging material feels flimsy and cheap.",food,2026-01-31,2
+"Perfect balance of taste and price. Family favorite.",food,2026-02-01,5
+"The new flavor is terrible. What happened to the original recipe?",food,2026-02-02,1
+"Elegant packaging with clear nutritional info. Very professional.",food,2026-02-03,4
+"Taste changed after they changed the recipe. Not buying anymore.",food,2026-02-04,1
+"Best packaging in the industry. Product always arrives fresh.",food,2026-02-05,5
+"Overpriced for what you get. Half the box is empty space.",food,2026-02-06,1
+"The taste reminds me of homemade food. Absolutely wonderful.",food,2026-02-07,5
+"Sure, the food is 'fresh'... if week-old counts as fresh",food,2026-02-08,1
+"Good packaging keeps food fresh for weeks. Smart design.",food,2026-02-09,4
+"Taste is acceptable but nothing special for the price.",food,2026-02-10,3
+"Product arrived with broken seal. Food safety concern.",food,2026-02-11,1
+"Delightful taste and beautiful presentation. Gift-worthy packaging!",food,2026-02-12,5
+"Price jumped 30% but portion sizes shrunk. Unacceptable.",food,2026-02-13,1
+"Consistently great taste. Been buying for over a year.",food,2026-02-14,5
+"Packaging is gorgeous but not functional. Hard to open and reseal.",food,2026-02-15,3
+"Tastes amazing and the price is competitive. No complaints.",food,2026-02-16,5
+"Found hair in the food. Disgusting. Never ordering again.",food,2026-02-17,1
+"The new eco-friendly packaging is great. Taste unchanged.",food,2026-02-18,5
+"Getting more expensive every month. Quality hasn't improved.",food,2026-02-19,1
+"Perfect snack. Great taste, great packaging, great price.",food,2026-02-20,5
+"Packaging was dented and product inside was crushed.",food,2026-02-21,1
+"Unique flavors you can't find elsewhere. Worth the price.",food,2026-02-22,5
+"Bland taste and overpriced. Plenty of better options out there.",food,2026-02-23,1
+"Love the resealable packaging. Keeps snacks fresh for days.",food,2026-02-24,4
+"Taste is inconsistent. Some batches are great, others terrible.",food,2026-02-25,2
+"Excellent value. Large portions and incredible taste.",food,2026-02-26,5
+"The packaging claims 'natural' but ingredient list says otherwise.",food,2026-02-27,1
+"My kids love it! Great taste and the packaging is fun.",food,2026-02-28,5
+"Price doesn't match quality. Very overrated product.",food,2026-03-01,1
+"Consistently fresh with sturdy packaging. Best in category.",food,2026-03-02,5
+"The booking process was seamless and quick.",services,2026-01-05,5
+"Terrible customer service. Staff was rude and dismissive.",services,2026-01-06,1
+"Great experience overall. The team was professional and courteous.",services,2026-01-07,5
+"Oh what 'excellent' service -- only had to wait 4 hours past my appointment",services,2026-01-08,1
+"The staff went above and beyond to help me. Truly outstanding.",services,2026-01-09,5
+"Pricing is transparent and reasonable. No hidden charges.",services,2026-01-10,5
+"Service quality has declined drastically in recent months.",services,2026-01-11,1
+"Quick turnaround time and excellent communication throughout.",services,2026-01-12,5
+"Overcharged by 40%. When I complained, they were unapologetic.",services,2026-01-13,1
+"Professional team, clean facility, and fair pricing.",services,2026-01-14,4
+"The support staff clearly doesn't care about customers.",services,2026-01-15,1
+"Best service experience in years. Will definitely return.",services,2026-01-16,5
+"They cancelled my appointment without notice. Very unprofessional.",services,2026-01-17,1
+"Friendly staff and the service was completed ahead of schedule.",services,2026-01-18,5
+"Hidden fees everywhere. The final bill was double the quote.",services,2026-01-19,1
+"Reliable service at a fair price. My go-to provider.",services,2026-01-20,4
+"Absolutely pathetic service. Complete waste of time and money.",services,2026-01-21,1
+"The team was knowledgeable and explained everything clearly.",services,2026-01-22,5
+"Sure, their 'premium service' is amazing if you enjoy being ignored",services,2026-01-23,1
+"Great value for the quality of service provided.",services,2026-01-24,4
+"Service was delayed by 2 hours. No apology offered.",services,2026-01-25,1
+"Exceptional attention to detail. Very impressed.",services,2026-01-26,5
+"The price keeps going up but the service quality keeps going down.",services,2026-01-27,1
+"Smooth, efficient, and professional. Exactly what I needed.",services,2026-01-28,5
+"Rude receptionist and incompetent staff. Never coming back.",services,2026-01-29,1
+"Fair pricing and excellent results. Highly recommend!",services,2026-01-30,5
+"They lost my paperwork and blamed me for it. Unacceptable.",services,2026-01-31,1
+"The upgrade in service quality is noticeable. Great improvement!",services,2026-02-01,5
+"Consistently poor communication. Never know what's happening.",services,2026-02-02,1
+"Outstanding professionalism from start to finish.",services,2026-02-03,5
+"Service took 3x longer than quoted. Very frustrating.",services,2026-02-04,1
+"The team is always friendly and the work is top-notch.",services,2026-02-05,5
+"Charged for services not rendered. Had to dispute the charge.",services,2026-02-06,1
+"Prompt and reliable. Exactly as advertised.",services,2026-02-07,4
+"Customer support refused to honor their own warranty.",services,2026-02-08,1
+"The service has been consistently excellent for over 2 years.",services,2026-02-09,5
+"Unresponsive management and careless staff. Total disappointment.",services,2026-02-10,1
+"Great customer support. They follow up to ensure satisfaction.",services,2026-02-11,5
+"Price increase without any improvement in service quality.",services,2026-02-12,1
+"Fast, friendly, and affordable. The trifecta of good service.",services,2026-02-13,5
+"Yeah right, 'customer first' policy. What a joke!",services,2026-02-14,1
+"Very pleased with the level of service. Fair pricing too.",services,2026-02-15,4
+"ಈ ಫೋನ್ ತುಂಬಾ ಚೆನ್ನಾಗಿದೆ, ಆದರೆ ಬ್ಯಾಟರಿ ಬೇಗ ಖಾಲಿ ಆಗುತ್ತೆ",electronics,2026-01-20,2
+"ಬೆಲೆ ತುಂಬಾ ಜಾಸ್ತಿ ಇದೆ ಆದರೆ ರುಚಿ ಚೆನ್ನಾಗಿದೆ. ಪ್ಯಾಕೇಜಿಂಗ್ ಸಹ ಒಳ್ಳೆಯದು",food,2026-01-25,3
+"ಈ ಸೇವೆ ತುಂಬಾ ಕೆಟ್ಟದಾಗಿದೆ. ಸಿಬ್ಬಂದಿ ಅಸಭ್ಯರಾಗಿದ್ದರು",services,2026-02-01,1
+"ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಉತ್ಪನ್ನ. ಬ್ಯಾಟರಿ ಎರಡು ದಿನ ಬರುತ್ತದೆ",electronics,2026-02-10,5
+"ರುಚಿ ಅದ್ಭುತವಾಗಿದೆ! ಮತ್ತೆ ಖರೀದಿಸುತ್ತೇನೆ",food,2026-02-15,5
+"बैटरी एक दिन भी नहीं चलती, बहुत निराश हूँ इस फोन से",electronics,2026-01-15,1
+"यह प्रोडक्ट बहुत अच्छा है! पैकेजिंग बढ़िया थी और स्वाद लाजवाब है।",food,2026-01-22,5
+"सर्विस बहुत खराब है। कोई मदद नहीं मिली।",services,2026-02-03,1
+"बैटरी लाइफ बहुत अच्छी है। दो दिन आसानी से चलती है।",electronics,2026-02-12,5
+"कीमत ज्यादा है लेकिन क्वालिटी अच्छी है।",electronics,2026-02-20,3
+"ఈ ఫోన్ బ్యాటరీ చాలా బాగుంది. రెండు రోజులు వస్తుంది.",electronics,2026-01-18,5
+"ప్యాకేజింగ్ చాలా చెడ్డగా ఉంది. ప్రోడక్ట్ దెబ్బతిన్నది.",food,2026-01-28,1
+"సర్వీస్ బాగుంది. స్టాఫ్ చాలా హెల్ప్‌ఫుల్ గా ఉన్నారు.",services,2026-02-05,5
+"ధర ఎక్కువ కానీ నాణ్యత మంచిది.",electronics,2026-02-18,3
+"రుచి అద్భుతంగా ఉంది! మళ్ళీ కొంటాను.",food,2026-02-25,5
+"இந்த ஃபோன் பேட்டரி மிகவும் நன்றாக உள்ளது.",electronics,2026-01-20,5
+"சுவை மிகவும் அருமை. மீண்டும் வாங்குவேன்!",food,2026-01-30,5
+"சேவை மிகவும் மோசமாக இருந்தது. யாரும் உதவ வரவில்லை.",services,2026-02-08,1
+"விலை அதிகம் ஆனால் தரம் நன்றாக உள்ளது.",electronics,2026-02-22,3
+"பேக்கேஜிங் அழகாக இருக்கிறது. பொருள் பாதுகாப்பாக வந்தது.",food,2026-03-01,5
+"BUY NOW BEST PRODUCT EVER CLICK HERE www.spam-link.com",electronics,2026-02-15,5
+"This is the best best best product buy buy buy now amazing wow!",food,2026-02-16,5
+"I was paid to write this review. 5 stars as requested.",electronics,2026-02-17,5
+"Product good product great product amazing product wonderful yes!",food,2026-02-18,5
+"Use code FAKE2026 for discount! Best product on market!",electronics,2026-02-19,5

@@ -1,0 +1,62 @@
+{
+  "platform": "instagram",
+  "brand": "OmniTech",
+  "posts": [
+    {
+      "id": "IG-001",
+      "text": "Introducing our ALL-DAY BATTERY that lasts up to 48 hours on a single charge! Never run out of power again. #OmniTech #BatteryLife",
+      "post_date": "2026-01-01",
+      "likes": 15420,
+      "comments": 892
+    },
+    {
+      "id": "IG-002",
+      "text": "Our PREMIUM PACKAGING ensures your product arrives in perfect condition every single time. We care about the unboxing experience! #PremiumPackaging",
+      "post_date": "2026-01-10",
+      "likes": 8750,
+      "comments": 324
+    },
+    {
+      "id": "IG-003",
+      "text": "Taste the difference! Our artisan recipes use ONLY the freshest natural ingredients. Zero artificial flavors, 100% delicious! #FreshAndNatural",
+      "post_date": "2026-01-15",
+      "likes": 22100,
+      "comments": 1456
+    },
+    {
+      "id": "IG-004",
+      "text": "BEST PRICE GUARANTEED! We offer unbeatable value without compromising on quality. Why pay more? #ValueForMoney #BestPrice",
+      "post_date": "2026-01-20",
+      "likes": 11300,
+      "comments": 678
+    },
+    {
+      "id": "IG-005",
+      "text": "Our WORLD-CLASS customer support team is available 24/7. Your satisfaction is our #1 priority. Average response time: under 5 minutes! #CustomerFirst",
+      "post_date": "2026-02-01",
+      "likes": 6890,
+      "comments": 1230
+    },
+    {
+      "id": "IG-006",
+      "text": "Eco-friendly packaging that protects your products AND the planet! Join us in our sustainability journey. #GoGreen #EcoPackaging",
+      "post_date": "2026-02-10",
+      "likes": 18900,
+      "comments": 567
+    },
+    {
+      "id": "IG-007",
+      "text": "Our battery technology is REVOLUTIONARY. Fastest charging speed in the industry - 0 to 100% in just 20 minutes! #FastCharge",
+      "post_date": "2026-02-15",
+      "likes": 25600,
+      "comments": 2100
+    },
+    {
+      "id": "IG-008",
+      "text": "Customers LOVE our taste! 98% satisfaction rate across all products. Don't just take our word for it - try it yourself! #CustomerLove",
+      "post_date": "2026-02-20",
+      "likes": 14200,
+      "comments": 890
+    }
+  ]
+}
